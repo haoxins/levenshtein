@@ -1,3 +1,3 @@
-module github.com/agnivade/levenshtein
+module github.com/haoxins/levenshtein
 
 go 1.26

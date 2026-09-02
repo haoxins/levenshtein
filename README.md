@@ -17,7 +17,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/agnivade/levenshtein"
+
+	"github.com/haoxins/levenshtein"
 )
 
 func main() {
